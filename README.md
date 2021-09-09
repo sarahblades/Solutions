@@ -6,7 +6,7 @@ This is the Discover and Practice solution portfolio for Sarah Blades progress t
 ## Modules
 The modules which will contain solutions are summarised as such:
 
-Module 0: Day One Learning \n
+Module 0: Day One Learning
 Module 1 (optional): Intro to Software Development
 Module 2: Building Responsive Web Apps
 Module 3: Automation and Software Quality
